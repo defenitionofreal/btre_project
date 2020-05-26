@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71769d1a-f702-4f0a-83f6-b30bf75583be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore.py" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/btre/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/btre/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/btre/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/btre/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,12 +11,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/btre/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="150" column="35" lean-forward="true" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="35" />
+            <state relative-caret-position="148">
+              <caret line="150" column="35" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -67,12 +65,13 @@
         <option value="$PROJECT_DIR$/contacts/urls.py" />
         <option value="$PROJECT_DIR$/btre/urls.py" />
         <option value="$PROJECT_DIR$/templates/listings/listing.html" />
-        <option value="$PROJECT_DIR$/btre/settings.py" />
         <option value="$PROJECT_DIR$/contacts/views.py" />
         <option value="$PROJECT_DIR$/accounts/views.py" />
         <option value="$PROJECT_DIR$/templates/accounts/dashboard.html" />
         <option value="$PROJECT_DIR$/static/css/style.css" />
         <option value="$PROJECT_DIR$/btre/static/css/style.css" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/btre/settings.py" />
       </list>
     </option>
   </component>
@@ -86,7 +85,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="618" />
+    <option name="x" value="597" />
     <option name="y" value="23" />
     <option name="width" value="950" />
     <option name="height" value="835" />
@@ -106,46 +105,6 @@
               <item name="housesboard" type="b2602c69:ProjectViewProjectNode" />
               <item name="housesboard" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="housesboard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="housesboard" type="462c0819:PsiDirectoryNode" />
-              <item name="btre" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="housesboard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="housesboard" type="462c0819:PsiDirectoryNode" />
-              <item name="btre" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="housesboard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="housesboard" type="462c0819:PsiDirectoryNode" />
-              <item name="btre" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="housesboard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="housesboard" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="housesboard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="housesboard" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="housesboard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="housesboard" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="housesboard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="housesboard" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -154,6 +113,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
@@ -183,15 +143,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="618" y="23" width="950" height="835" extended-state="0" />
+    <frame x="597" y="23" width="950" height="835" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18729816" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32974428" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -199,6 +156,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5356662" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -515,10 +476,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/btre/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="150" column="35" lean-forward="true" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="35" />
+        <state relative-caret-position="148">
+          <caret line="150" column="35" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="35" />
         </state>
       </provider>
     </entry>

@@ -148,8 +148,13 @@ EMAIL_HOST = 'smtp.mail.ru'
 EMAIL_PORT = 2525
 #EMAIL_USE_SSL = True
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'flavors@inbox.ru'
-EMAIL_HOST_PASSWORD = 'blackaudia7'
+EMAIL_HOST_USER = 'flavortest@mail.ru'
+EMAIL_HOST_PASSWORD = '123'
 #DEFAULT_FROM_EMAIL = 'admin@btestate.ru'
 #SERVER_EMAIL = EMAIL_HOST_USER
 #DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
+
+try:
+    from .local_settings import *
+except ImportError:
+    pass
